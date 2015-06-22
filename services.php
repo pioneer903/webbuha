@@ -176,6 +176,9 @@
 										<small>Keep your website files and database safely backed up to multiple storage locations.
 										Prevent any possible failures caused by hackers, hardware, or weather.
 										Easy and fast website recovery.
+									</small> <br>
+									<small>
+										<a target="_blank" href="http://www.leahkalamakis.com/dont-make-this-big-mistake-backup-buddy-tutorial/" title="Why do I need this?">Why do I need this?</a>
 									</small>
 									</th>
 									<td></td>
@@ -186,7 +189,8 @@
 								</tr>
 								<tr>
 									<th>Website update <br>
-										<small>Keep the system, themes, plugins files and databases up to date with the most recent version releases and security patches</small>
+										<small>Keep the system, themes, plugins files and databases up to date with the most recent version releases and security patches.</small> <br>
+										<small><a target="_blank" href="http://optimwise.com/why-update-wordpress-and-plugins/" title="Why do I need this?">Why do I need this?</a></small>
 									</th>
 									<td></td>
 									<td>Yearly</td>
