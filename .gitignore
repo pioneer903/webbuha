@@ -1,1 +1,5 @@
 includes/connection.inc.php
+composer.phar
+.env
+/vendor/
+*.log

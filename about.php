@@ -11,28 +11,8 @@ include('includes/process_contact_form.php');?>
 <?php include('includes/meta.inc.php'); ?>
 <!--Google Analytics-->
 <?php include_once("analyticstracking.php") ?>
-
-<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
-<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
-<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
-<script type="text/javascript" src="js/jquery-1.4.2.js" ></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/cufon-replace.js"></script>  
-<script type="text/javascript" src="js/Copse_400.font.js"></script>
-<script type="text/javascript" src="js/imagepreloader.js"></script>
-<script type="text/javascript">
-	preloadImages([
-	'images/menu1_active.gif',
-	'images/menu2_active.gif',
-	'images/menu3_active.gif',
-	'images/menu4_active.gif',
-	'images/menu5_active.gif']);
-</script>
-<!--[if lt IE 9]>
-	<script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
-	<script type="text/javascript" src="js/html5.js"></script>
-<![endif]-->
-	
+<?php include_once("includes/stylesheets.php"); ?>
+<?php include_once("includes/scripts.php"); ?>
 
 </head>
 <body id="page5">
@@ -94,24 +74,7 @@ include('includes/process_contact_form.php');?>
 	</div>
 	</div>
 <script type="text/javascript"> Cufon.now(); </script>
-<script src="js/script.js"></script>   
-<script> /*
-			var accordionDiv = document.getElementById("accordion");
-			var h3headers = accordionDiv.getElementsByTagName("h3");
-			console.log("H3 Links:" , h3headers.length);
-			for (i = 0; i < h3headers.length; i++){
-				h3headers[i].style.color = "red";
-				//console.log("H3 property:" , h3headers[i].style.color.value);
-				}
-			
-			
-			//var ancorTags = accordionDiv.getElementsByTagName("a");
-			//ancorTags.setAttribute("", "" )
-			//console.log("Links:" , ancorTags.length);
-			
-			//var ancorTags.innerHTML.style.color = "red";
-			*/
-</script>
+
   
 </body>
 </html>

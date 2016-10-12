@@ -11,28 +11,8 @@ include('includes/process_contact_form.php');?>
 <?php include('includes/meta.inc.php'); ?>
 <!--Google Analytics-->
 <?php include_once("analyticstracking.php") ?>
-
-<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
-<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
-<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
-
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/cufon-replace.js"></script>  
-<script type="text/javascript" src="js/Copse_400.font.js"></script>
-<script type="text/javascript" src="js/imagepreloader.js"></script>
-<script type="text/javascript">
-	preloadImages([
-	'images/menu1_active.gif',
-	'images/menu2_active.gif',
-	'images/menu3_active.gif',
-	'images/menu4_active.gif',
-	'images/menu5_active.gif']);
-</script>
-<!--[if lt IE 9]>
-	<script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
-	<script type="text/javascript" src="js/html5.js"></script>
-<![endif]-->
-	
+<?php include_once("includes/stylesheets.php"); ?>
+<?php include_once("includes/scripts.php"); ?>
 
 
 </head>
@@ -129,7 +109,7 @@ include('includes/process_contact_form.php');?>
             <p>
            <!--<a href="#" class="button" onClick="document.getElementById('ContactForm').submit()"><span><span>Send</span></span></a>
 -->
-               <a href="#" name="send" id="send" type="submit"class="button">
+               <a href="" name="send" id="send" type="submit"class="button">
                <span><span> <input name="send" id="send" type="image" src="images/send.png" style = "width:58px; height:25px; " value="Send message" /></span></span></a>
             </p>
         </form></p>

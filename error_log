@@ -1,0 +1,71 @@
+[06-Mar-2016 11:35:23 UTC] PHP Notice:  Undefined variable: mailSent in /home/delorren/public_html/yuriy/webbuha.com/contact.php on line 74
+[30-Mar-2016 01:47:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/delorren/public_html/yuriy/webbuha.com/includes/stylesheets.php on line 3
+[30-Mar-2016 01:47:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/delorren/public_html/yuriy/webbuha.com/includes/stylesheets.php on line 3
+[30-Mar-2016 01:47:55 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/delorren/public_html/yuriy/webbuha.com/portfolio.php on line 10
+[30-Mar-2016 01:48:10 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/delorren/public_html/yuriy/webbuha.com/portfolio.php on line 10
+[30-Mar-2016 01:48:14 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/delorren/public_html/yuriy/webbuha.com/portfolio.php on line 10
+[23-Apr-2016 19:03:11 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:11 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:11 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:11 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:13 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:13 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:13 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:13 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:15 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:15 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:15 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:15 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:18 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:18 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:18 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:18 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:19 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:19 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:19 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:19 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:21 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:21 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:21 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:21 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:22 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:22 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:22 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:22 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:24 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:24 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:24 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:24 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:25 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:25 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:25 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:25 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:27 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:27 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:27 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:27 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:33 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:33 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:33 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:33 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:34 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:34 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:34 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:34 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:35 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[23-Apr-2016 19:03:35 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:35 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[23-Apr-2016 19:03:35 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-Apr-2016 15:15:06 UTC] PHP Notice:  Undefined variable: mailSent in /home/delorren/public_html/yuriy/webbuha.com/contact.php on line 54
+[06-May-2016 23:04:13 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[06-May-2016 23:04:13 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[06-May-2016 23:04:13 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[06-May-2016 23:04:13 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-May-2016 17:28:29 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[25-May-2016 17:28:29 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-May-2016 17:28:29 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-May-2016 17:28:29 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-May-2016 17:29:58 UTC] PHP Notice:  Undefined index: page in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 72
+[25-May-2016 17:29:58 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-May-2016 17:29:58 UTC] PHP Warning:  include(includes/home.php): failed to open stream: No such file or directory in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88
+[25-May-2016 17:29:58 UTC] PHP Warning:  include(): Failed opening 'includes/home.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/delorren/public_html/yuriy/webbuha.com/single_portfolio.php on line 88

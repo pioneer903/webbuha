@@ -4,18 +4,96 @@
 <head>
 	<title>WebBuha<?php  if (isset($title)) {echo "&#8212;{$title}";} ?></title>
 	<?php include('includes/meta.inc.php'); ?>
-	<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
-	<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
-	<script type="text/javascript" src="js/jquery-1.4.2.js" ></script>
-	<script type="text/javascript" src="js/cufon-yui.js"></script>
-	<script type="text/javascript" src="js/cufon-replace.js"></script>  
-	<script type="text/javascript" src="js/Copse_400.font.js"></script>
+	<?php include_once("analyticstracking.php") ?>
+	<?php include_once("includes/stylesheets.php"); ?>
+	<?php include_once("includes/scripts.php"); ?>
 	
-<!--[if lt IE 9]>
-	<script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
-	<script type="text/javascript" src="js/html5.js"></script>
-	<![endif]-->
+	<style type="text/css">
+
+		table.packages {
+			width:100%;
+		}
+		table.packages th,
+		table.packages td{
+			background: white;
+		}
+		table.packages thead th{
+			background: #00264b;
+			color: white;
+		}
+
+		tbody th small{
+			font-weight: normal;
+			font-size: 0.9em;
+		}
+
+		table.packages tr.prices th{
+			font-size: 2.5em;
+			line-height: 0.7em;
+			clear: both;
+			background: #006abb;
+		}
+		table.packages tr.prices th small{
+			font-size: 0.4em;
+			font-weight: normal;
+		}
+
+		table.packages tbody tr:nth-child(even) th,
+		table.packages tr:nth-child(even) td{
+			background: #E8E8E8;
+		}
+		table.packages th, 
+		table.packages td{
+			width: 15%;
+			border:1px solid gray;
+			padding: 15px;
+			text-align: center;
+			vertical-align: middle;
+		}
+		table.packages thead tr:first-child>th:first-child, 
+		table.packages thead tr:nth-child(2)>th:first-child {
+			background: transparent;
+			border: none;
+			color: black;
+		  font-size: 1.7em;
+		  width: 26%;
+		}
+		table.packages thead tr:last-child>th{
+			background: transparent;
+			color: #006abb;
+			border-top: none;
+			padding: 0px 5px 15px;	
+			border-left: none;
+		}
+		table.packages thead tr:last-child td{
+			background: transparent;
+		}
+
+
+		/* Prices for Specific services */
+		table.estimates {
+			width: 100%
+		}
+		table.estimates tr{
+			border-bottom:1px dotted gray;
+
+		}
+		.estimates td{
+			padding:10px;
+			margin:10px;
+		}
+
+		.text-center{
+			text-align: center;
+		}
+		.col-md-6{
+			width:46%;
+			float: left;
+			padding-right:10px;
+		}
+
+</style>
+
 </head>
 <body id="page1">
 
@@ -182,7 +260,7 @@
 									</small>
 									</th>
 									<td></td>
-									<td>Yearly</td>
+									<td>Quarterly</td>
 									<td>Monthly</td>
 									<td>Daily</td>
 									<td>Hourly</td>
@@ -193,7 +271,7 @@
 										<small><a target="_blank" href="http://optimwise.com/why-update-wordpress-and-plugins/" title="Why do I need this?">Why do I need this?</a></small>
 									</th>
 									<td></td>
-									<td>Yearly</td>
+									<td>Quarterly</td>
 									<td>Monthly</td>
 									<td>Daily</td>
 									<td>Hourly</td>
@@ -220,6 +298,15 @@
 									<td>Every 5 minutes</td>
 								</tr>
 								<tr>
+									<th>Development work or Email support
+									</th>
+									<td>$40/hour (15 minutes increments)</td>
+									<td>1 hour</td>
+									<td>1 hour</td>
+									<td>2 hours</td>
+									<td>2 hours</td>
+								</tr>
+								<tr>
 									<th>Hosting <br>
 										<small>Fast reliable hosting</small></th>
 									<td>1 Website</td>
@@ -241,7 +328,7 @@
 
 					</article>
 				</div>
-
+				<a href="/payments.php">Payments</a>
 			</section>
 		</div>
 		<!-- /.main -->

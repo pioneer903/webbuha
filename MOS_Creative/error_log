@@ -1,0 +1,8 @@
+[22-Nov-2015 00:22:05 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/fgcontactform.php on line 548
+[22-Nov-2015 00:22:05 UTC] PHP Notice:  Undefined index: scaptcha in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/captcha-creator.php on line 34
+[22-Nov-2015 00:22:05 UTC] PHP Notice:  Undefined index: a970e03251832e9f2c73d534644deb2d in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/captcha-creator.php on line 121
+[22-Nov-2015 00:22:05 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/fgcontactform.php on line 548
+[20-Apr-2016 22:07:28 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/fgcontactform.php on line 548
+[20-Apr-2016 22:07:28 UTC] PHP Notice:  Undefined index: scaptcha in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/captcha-creator.php on line 34
+[20-Apr-2016 22:07:28 UTC] PHP Notice:  Undefined index: c74d237d274a0387022b30b0784e7c7f in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/captcha-creator.php on line 121
+[20-Apr-2016 22:07:28 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/delorren/public_html/yuriy/webbuha.com/MOS_Creative/includes/fgcontactform.php on line 548

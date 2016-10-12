@@ -72,7 +72,7 @@ if (array_key_exists('send', $_POST)) {
 	  // $missing is no longer needed if the email is sent, so unset it
 	  unset($missing);
 	  // redirect the page with a fully qualified URL
-	  header('Location: http://www.webbuha.com/webbuha_blue_2012/thanks.php');
+	  header('Location: http://www.webbuha.com/thanks.php');
 				exit;
 	  }
     }
